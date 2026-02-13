@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/JeEonPark/FastTranslator/releases/latest"><img src="https://img.shields.io/github/v/release/JeEonPark/FastTranslator?style=flat-square&color=blue" alt="Latest Release"></a>
+  <a href="https://github.com/JeEonPark/FastTranslator/releases/latest"><img src="https://img.shields.io/github/v/release/JeEonPark/FastTranslator?style=flat-square&color=blue&cacheSeconds=0" alt="Latest Release"></a>
   <img src="https://img.shields.io/badge/platform-macOS%2015.0+-black?style=flat-square&logo=apple" alt="macOS 15.0+">
   <img src="https://img.shields.io/badge/swift-5.0-orange?style=flat-square&logo=swift" alt="Swift 5.0">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-All%20Rights%20Reserved-lightgrey?style=flat-square" alt="License"></a>
